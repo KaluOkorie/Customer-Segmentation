@@ -2,7 +2,7 @@
 
 ## 🎯 About This Project
 
-Have you ever wondered why some marketing campaigns succeed while others fail? This project dives deep into customer behavior data to answer exactly that. Using clustering algorithms, I analyzed how different customer segments respond to marketing campaigns - uncovering patterns that can transform how businesses approach their marketing strategies.
+Have you ever wondered why some marketing campaigns succeed while others fail? This project dives deep into customer behavior data to answer exactly that. Using clustering algorithms, I analyzed how different customer segments respond to marketing campaigns,  uncovering patterns that can transform how businesses approach their marketing strategies.
 
 ## 💡 The Insight That Surprised Me
 
@@ -45,15 +45,3 @@ I also learned that **dimensionality reduction isn't just technical - it's strat
 - Handled missing values with median imputation
 - Smart feature selection by removing redundant columns
 - Label encoding for categorical variables like education and marital status
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/marketing-segmentation.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis
-python segmentation_analysis.py
