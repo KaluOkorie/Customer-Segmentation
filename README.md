@@ -1,10 +1,10 @@
 # Customer Segmentation: Unlocking Marketing Campaign Effectiveness
 
-## 🎯 About This Project
+##  About This Project
 
 Have you ever wondered why some marketing campaigns succeed while others fail? This project dives deep into customer behavior data to answer exactly that. Using clustering algorithms, I analyzed how different customer segments respond to marketing campaigns,  uncovering patterns that can transform how businesses approach their marketing strategies.
 
-## 💡 The Insight That Surprised Me
+##  The Insight That Surprised Me
 
 The most fascinating discovery was that **loyal customers often ignore marketing campaigns** - yet they're the biggest spenders! Our "High Responder" segment showed consistent purchases (especially wines and fruits) despite low campaign engagement. This challenges the common assumption that marketing drives all purchasing behavior.
 
@@ -14,17 +14,17 @@ I also learned that **dimensionality reduction isn't just technical - it's strat
 
 ### Three Distinct Customer Segments Emerged:
 
-**High Responders** 🏆
+**High Responders** 
 - Highest spenders but lowest campaign engagement
 - Loyal to wines, fruits, and fish products
 - Lesson: Don't over-market to your best customers
 
-**Moderate Responders** ⚖️
+**Moderate Responders** 
 - Balanced engagement and spending
 - Prefer catalogue, store, and web purchases
 - Opportunity: Perfect target for growth campaigns
 
-**Low Responders** 📉
+**Low Responders** 
 - Lowest engagement and spending
 - Traditional shopping preferences
 - Challenge: Requires different engagement strategies
@@ -34,7 +34,7 @@ I also learned that **dimensionality reduction isn't just technical - it's strat
 - **Middle-aged customers** are most responsive (key target demographic)
 - **Higher education** correlates with campaign engagement (smarter messaging needed)
 
-## 🛠️ Technical Approach
+## Technical Approach
 
 ### Algorithms Used:
 - **K-Means Clustering** with elbow method for optimal clusters
